@@ -35,7 +35,7 @@ env:
   EMAIL_TO: your-email@example.com
 
 jobs:
-  trigger_build:
+    trigger_build:
     runs-on: ubuntu-latest
 
     steps:
